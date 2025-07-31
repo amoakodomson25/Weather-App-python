@@ -1,2 +1,2 @@
 # Weather App python
- Return the temp of a city in degrees Farenheit and tells you how the weather is
+ Return the temperature of a city in degrees Farenheit and tells you how the weather is(rainy, cloudy, and others).
